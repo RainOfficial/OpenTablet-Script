@@ -22,5 +22,5 @@ Else {
 }
 # If the filepath is false, suggest to find file path
 #if (Test-Path E:\Tools\OpenTabletDriver.win-x64\OpenTabletDriver.UX.Wpf.exe "True"){
- #   Write-Host Shit Broke cuh
+ #   Write-Host Shit Broke cuh Test
 #}
